@@ -9,6 +9,9 @@ Convert credit card and bank export data (Amex, Revolut) into DATEV import forma
 - Outputs monthly DATEV-compatible CSV files
 - Simple GUI for Windows and Linux
 
-## License
+## Usage
 
-MIT License. See LICENSE file.
+Run the Python script with:
+
+```bash
+python datev_import_converter_gui.py
